@@ -1,4 +1,12 @@
-.product-price{
-    font-weight: bold;
-    color: black;
+.product-price {
+  font-weight: bold;
+  color: black;
+}
+.product-image {
+  cursor: pointer;
+}
+
+.product-detail-image {
+  height: 500px;
+  width: 400px;
 }
